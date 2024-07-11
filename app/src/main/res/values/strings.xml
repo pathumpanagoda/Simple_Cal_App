@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Simple_Cal_App</string>
+    <string name="btnPlus">+</string>
+    <string name="btnminus">-</string>
+    <string name="btnDevide">/</string>
+    <string name="btnMul">X</string>
+    <string name="label_Number1">Number 1</string>
+    <string name="label_Number2">Number 2</string>
+    <string name="EditNumber1">20</string>
+    <string name="EditNumber2">12</string>
+    <string name="answer">Answer</string>
+    <string name="btn_back">Back</string>
+
+</resources>
